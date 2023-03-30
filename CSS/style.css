@@ -1,0 +1,28 @@
+ .wrapper{
+ 	width: 1366px;
+ 	height:1500px;
+ 	background-color:pink;
+ }
+ .header{
+ 	width: 1366px;
+ 	height:180px;
+ 	background-color:red;
+ }
+ body{
+ 	margin:0px;
+ }
+ .hleft{
+ 	width: 683px;
+ 	height:180px;
+ 	background-color:#ccc;
+ 	float=left: 
+ }
+ .hright{
+ 	width: 683px;
+ 	height:180px;
+ 	background-color:#ddd;
+ }
+ .logo{
+padding-left: 25px;
+padding-right: 10px; 
+ }
